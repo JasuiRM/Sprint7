@@ -1,2 +1,2 @@
-# Sprint7
+# sprint7
 README repository for Sprint7Project
